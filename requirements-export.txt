@@ -1,0 +1,5 @@
+# Optional dependencies for the official llama.cpp converter and GGUF inspection.
+# Keep the training stack intact rather than installing llama.cpp's full requirements.
+gguf==0.19.0
+sentencepiece==0.2.2
+protobuf==7.35.1

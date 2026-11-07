@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+runs/
+*.gguf
+tools/
+*.safetensors
+*.pt
+*.pth
+*.bin
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
